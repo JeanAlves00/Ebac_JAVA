@@ -1,0 +1,25 @@
+Programação Procedural
+
+Conceito: Baseia-se em procedimentos ou funções, que são blocos de código que executam tarefas específicas.
+Estrutura: O programa é organizado em uma sequência de comandos e chamadas de funções.
+Dados: Dados e funções são separados; funções manipulam dados passados como argumentos.
+
+Quando usar:
+Programas simples ou pequenos scripts.
+Problemas que seguem uma sequência linear ou bem definida.
+Código que precisa ser executado rapidamente e com pouco overhead.
+
+Programação Orientada a Objetos (POO)
+Conceito: Baseia-se em objetos que encapsulam dados (atributos) e comportamentos (métodos).
+Estrutura: Organiza o código em classes e objetos que representam entidades do mundo real.
+Dados: Dados e funções ficam juntos dentro dos objetos.
+
+Quando usar:
+Sistemas complexos, grandes e de longo prazo.
+Projetos que envolvem muitos dados relacionados e comportamento complexo.
+Aplicações que precisam de fácil manutenção, reutilização e escalabilidade.
+Quando quiser modelar entidades do mundo real diretamente no código.
+
+concideracoes finais:
+Pelo entendimento procedural e mais para tarefas simples, codigo pequeno ou quando o desempenho e critico e o modelo nao e muito complexo ja a Orientada a Objetos
+e para projetos mais grandes e sistemas que precisam crecer e de facil manutenção projetos que visam o beneficio de uma abstração e uma organização clara
