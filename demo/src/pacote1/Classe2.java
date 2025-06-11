@@ -1,6 +1,6 @@
 public class Classe2 {
 
-    private String propriedadePrivada; // Acesso apenas dentro da classe
+    public String propriedadePrivada; // Acesso apenas dentro da classe
 
     public String propriedadePublica; // Acesso de qualquer lugar
 
