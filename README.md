@@ -1,1 +1,1 @@
-Onde salvo as aulas da EBAC sobre Java
+Onde salvo os exercicios das aulas da EBAC sobre Java
